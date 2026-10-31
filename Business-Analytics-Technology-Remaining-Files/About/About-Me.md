@@ -21,8 +21,6 @@ I do not want to learn software in isolation. For every tool I study, I want to 
 
 - Building a foundation in business concepts, accounting, and finance.
 - Learning Microsoft Excel, Python, SQL, and Power BI in a deliberate sequence.
-- Learning Python through freeCodeCamp, with an emphasis on understanding concepts rather than copying code.
-- Preparing for planned January 2027 coursework in BAS 120 and BAS 150.
 
 ## How I Learn
 
