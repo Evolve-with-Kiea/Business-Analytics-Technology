@@ -1,129 +1,396 @@
-# Glossary
+# Business, Finance & Analytics Glossary
 
-This glossary defines terms used in business, finance, accounting, analytics, and technology. Definitions are written in plain English. Examples are simple illustrations, not real results.
+## A Practical Reference for Business Analytics, Financial Analysis & Technology
 
-## Categories
+### Purpose
 
-- Business and Financial
-- Accounting
-- Marketing and E-commerce
-- Analytics and Business Intelligence
-- Technology and Data
-- Process Improvement
+This glossary is a growing reference library of terminology used in business, finance, accounting, marketing, e-commerce, business analytics, business intelligence, technology, and process improvement.
 
-## Business and Financial
+Its purpose is to help me understand not only what a term means, but also **why it matters, when it is used, and how it applies to real business decisions**.
 
-| Term | Plain-English definition | Why it matters | Example |
+The definitions are written in accessible language, with examples that support learning and practical application.
+
+All numerical examples are hypothetical and are intended for educational purposes.
+
+---
+
+## How to Use This Glossary
+
+For each new concept:
+
+1. **Understand:** Read the definition and explain it in my own words.
+2. **Connect:** Identify where the concept appears in accounting, business, or analytics.
+3. **Practice:** Work through an example or calculation.
+4. **Apply:** Use the concept in a business question, exercise, or project.
+5. **Review:** Return to the concept when working with more advanced tools.
+
+### Learning Progress
+
+| Level | Meaning |
+|---|---|
+| New | I have not studied the concept yet |
+| Familiar | I recognize the term and its general meaning |
+| Understanding | I can explain the concept in my own words |
+| Practicing | I can apply it in a guided exercise |
+| Applying | I can use it independently in an appropriate situation |
+
+---
+
+## Glossary Categories
+
+1. Business and Financial
+2. Accounting
+3. Marketing and E-commerce
+4. Analytics and Business Intelligence
+5. Technology and Data
+6. Process Improvement
+
+---
+
+# 1. Business and Financial
+
+These concepts help explain how businesses earn revenue, manage costs, measure profitability, evaluate financial performance, and make decisions.
+
+| Term | Plain-English Definition | Why It Matters | Example |
 |---|---|---|---|
-| Revenue | Money a business earns from selling goods or services before costs are subtracted. | It is the starting point for measuring performance. | A store that sells 200 items at 10 dollars each has 2,000 dollars in revenue. |
-| Cost of Goods Sold (COGS) | The direct cost of producing or buying what a business sells. | It determines gross profit. | The purchase price of products sold in a month. |
-| Gross Profit | Revenue minus cost of goods sold. | It shows how much remains to cover other expenses. | 2,000 dollars revenue minus 1,200 dollars COGS equals 800 dollars. |
-| Gross Profit Margin | Gross profit divided by revenue, shown as a percentage. | It allows comparison across products and periods. | 800 divided by 2,000 equals 40 percent. |
-| Operating Expenses | Costs of running the business that are not part of COGS. | They affect operating profit. | Rent, software, and salaries. |
-| Net Income | Profit after all expenses, interest, and taxes. | It is the bottom-line measure of profitability. | Reported at the end of an income statement. |
-| EBITDA | Earnings before interest, taxes, depreciation, and amortization. | It is used to compare operating performance across companies. | Often cited in business valuation. |
-| Fixed Cost | A cost that stays the same regardless of sales volume. | It affects break-even analysis. | Monthly rent. |
-| Variable Cost | A cost that changes with sales volume. | It determines the cost of each additional sale. | Shipping per order. |
-| Break-Even Point | The sales level at which total revenue equals total costs. | It shows the minimum sales needed to avoid a loss. | Fixed costs divided by contribution margin per unit. |
-| Contribution Margin | Revenue minus variable costs. | It shows what each sale contributes toward fixed costs and profit. | A product priced at 30 dollars with 18 dollars in variable costs contributes 12 dollars. |
-| Cash Flow | The movement of cash into and out of a business. | A profitable business can still run short of cash. | Customer payments in versus supplier payments out. |
-| Working Capital | Current assets minus current liabilities. | It measures short-term financial health. | Cash and receivables minus bills due soon. |
-| Liquidity | How easily a business can meet short-term obligations. | Poor liquidity can threaten operations. | Measured with the current ratio. |
-| Return on Investment (ROI) | Gain from an investment relative to its cost. | It compares the value of different uses of money. | A 100 dollar investment that yields 120 dollars returns 20 percent. |
-| Budget Variance | The difference between planned and actual results. | It highlights where performance departed from the plan. | Actual marketing spend minus budgeted spend. |
-| Forecast | An estimate of future results based on data and assumptions. | It supports planning and resource decisions. | Projected sales for next quarter. |
+| Revenue | Money earned from selling products or services before expenses are deducted. | Measures business sales activity. | 200 products sold for $10 each generate $2,000 in revenue. |
+| Cost of Goods Sold (COGS) | Direct costs associated with the products or services sold. | Used to calculate gross profit. | The purchase cost of inventory sold during the month. |
+| Gross Profit | Revenue minus COGS. | Shows what remains after direct costs. | $2,000 revenue − $1,200 COGS = $800 gross profit. |
+| Gross Profit Margin | Gross profit divided by revenue, expressed as a percentage. | Helps compare profitability across products or periods. | $800 ÷ $2,000 × 100 = 40%. |
+| Operating Expenses | Costs of running a business outside direct production or purchasing costs. | Affect operating profitability. | Rent, administrative salaries, and software subscriptions. |
+| Operating Income | Profit remaining after subtracting operating expenses from gross profit. | Measures profitability from normal business operations. | $800 gross profit − $500 operating expenses = $300. |
+| Net Income | Profit remaining after all applicable expenses, interest, and taxes. | Measures overall profitability. | The final profit reported on an income statement. |
+| EBITDA | Earnings before interest, taxes, depreciation, and amortization. | Provides one measure of operating performance, but is not the same as cash flow. | Used in some business valuations and comparisons. |
+| Fixed Cost | A cost that generally remains constant within a relevant activity range. | Important for budgeting and break-even analysis. | Monthly office rent. |
+| Variable Cost | A cost that changes with business activity or production volume. | Helps determine the cost of additional sales. | Packaging costs per order. |
+| Contribution Margin | Revenue minus variable costs. | Shows the amount available to cover fixed costs and profit. | $30 selling price − $18 variable cost = $12. |
+| Break-Even Point | The sales level where total revenue equals total costs. | Helps determine how much must be sold to avoid a loss. | $1,200 fixed costs ÷ $12 contribution margin = 100 units. |
+| Cash Flow | Money moving into and out of a business. | A profitable business can still face cash shortages. | Customer payments received minus supplier payments made. |
+| Working Capital | Current assets minus current liabilities. | Indicates resources available for short-term operations. | $50,000 current assets − $30,000 current liabilities = $20,000. |
+| Liquidity | The ability to meet short-term financial obligations. | Helps assess financial stability. | Having enough cash or near-cash assets to pay bills. |
+| Current Ratio | Current assets divided by current liabilities. | Measures short-term financial coverage. | $60,000 ÷ $30,000 = 2.0. |
+| Return on Investment (ROI) | Net gain relative to investment cost. | Helps compare investment outcomes. | ($120 return − $100 cost) ÷ $100 = 20%. |
+| Budget | A financial plan for expected income and spending. | Supports resource allocation and financial control. | Planning $2,000 for monthly marketing expenses. |
+| Budget Variance | Difference between budgeted and actual results. | Highlights deviations requiring investigation. | $2,300 actual spending − $2,000 budget = $300 unfavorable expense variance. |
+| Forecast | An estimate of future outcomes based on assumptions and available information. | Supports planning and decision-making. | Projecting next quarter's sales. |
+| Profitability | The ability to generate profit relative to sales, costs, or investment. | Helps evaluate business sustainability. | Comparing profit margins between product lines. |
+| Financial Modeling | Building calculations and assumptions to evaluate financial scenarios. | Supports forecasting, planning, and business decisions. | Creating an Excel model to estimate annual profit. |
+| Scenario Analysis | Comparing possible outcomes under different assumptions. | Helps prepare for uncertainty. | Evaluating low, expected, and high sales cases. |
+| Sensitivity Analysis | Testing how changes in one or more assumptions affect results. | Identifies influential business variables. | Measuring profit changes when shipping costs increase. |
 
-## Accounting
+---
 
-| Term | Plain-English definition | Why it matters | Example |
+# 2. Accounting
+
+Accounting concepts explain how financial transactions are recorded, organized, reconciled, and reported.
+
+| Term | Plain-English Definition | Why It Matters | Example |
 |---|---|---|---|
-| Accrual Accounting | Records revenue when earned and expenses when incurred, regardless of when cash moves. | It matches income with related costs. | Recording a sale when delivered, not when paid. |
-| Cash-Basis Accounting | Records revenue and expenses only when cash is received or paid. | It is simpler but can misrepresent performance. | Used by some small businesses. |
-| Income Statement | A report of revenue, expenses, and profit over a period. | It shows profitability. | Monthly or annual profit and loss statement. |
-| Balance Sheet | A report of assets, liabilities, and equity at one point in time. | It shows financial position. | Assets equal liabilities plus equity. |
-| Cash Flow Statement | A report of cash movements from operating, investing, and financing activities. | It explains changes in cash. | Shows why cash increased or decreased. |
-| Asset | Something a business owns that has value. | Assets are the resources used to operate. | Cash, inventory, equipment. |
-| Liability | An amount a business owes. | Liabilities show obligations. | Loans, unpaid bills. |
-| Equity | The owner's stake: assets minus liabilities. | It shows the net value belonging to owners. | Retained earnings and owner contributions. |
-| Depreciation | Spreading the cost of a long-lived asset over its useful life. | It matches cost with the periods that benefit. | A computer purchased for 1,200 dollars and expensed over three years. |
-| Accounts Receivable | Money customers owe the business. | It affects cash flow. | An invoice sent but not yet paid. |
-| Accounts Payable | Money the business owes suppliers. | It affects cash planning. | A bill due next month. |
-| Double-Entry Bookkeeping | A system where each transaction is recorded in at least two accounts so that debits equal credits. | It helps catch errors. | A sale increases cash and revenue. |
-| GAAP | Generally Accepted Accounting Principles, the standard U.S. accounting rules. | It makes financial statements consistent and comparable. | Public companies follow GAAP. |
+| Accrual Accounting | Recognizing revenue when earned and expenses when incurred, regardless of cash timing. | Provides a more complete view of period performance. | Recording an earned sale before customer payment arrives. |
+| Cash-Basis Accounting | Recognizing revenue when cash is received and expenses when cash is paid. | Provides a simpler cash-focused accounting approach. | Recording revenue when a customer pays. |
+| Income Statement | A report showing revenue, expenses, and profit over a period. | Evaluates profitability. | Monthly profit and loss statement. |
+| Balance Sheet | A report showing assets, liabilities, and equity at a specific date. | Describes financial position. | Assets = Liabilities + Equity. |
+| Cash Flow Statement | A report of operating, investing, and financing cash flows. | Explains changes in cash balances. | Reviewing cash generated from operations. |
+| Asset | An economic resource controlled by a business. | Represents resources available to support operations. | Cash, equipment, and inventory. |
+| Liability | A present obligation owed to another party. | Represents financial obligations. | Loans and unpaid supplier invoices. |
+| Equity | The residual interest in assets after liabilities. | Represents owners' financial interest. | Assets of $100,000 minus liabilities of $60,000 = $40,000 equity. |
+| Accounts Receivable (AR) | Amounts customers owe for goods or services. | Affects collections and cash flow. | An unpaid customer invoice. |
+| Accounts Payable (AP) | Amounts owed to suppliers or vendors. | Affects payment planning and working capital. | An unpaid supplier bill. |
+| General Ledger | The central record of financial account activity. | Supports reporting and reconciliations. | Reviewing the cash account balance. |
+| Journal Entry | A recorded accounting transaction using debits and credits. | Documents financial activity. | Recording an expense and related payable. |
+| Double-Entry Bookkeeping | Recording transactions so total debits equal total credits. | Maintains accounting balance. | Debit cash and credit revenue for a cash sale. |
+| Trial Balance | A listing of account balances used to check whether total debits equal total credits. | Helps identify certain bookkeeping errors. | Reviewing balances before financial statement preparation. |
+| Bank Reconciliation | Comparing bank records with accounting records and explaining differences. | Supports accurate cash reporting. | Identifying outstanding checks. |
+| Account Reconciliation | Comparing records or balances to confirm accuracy and resolve differences. | Improves financial reliability. | Matching a subsidiary ledger to the general ledger. |
+| Accrued Expense | An expense recognized before it is paid. | Supports correct period reporting. | Wages earned but not yet paid. |
+| Prepaid Expense | A payment initially recorded as an asset and expensed over the periods benefited. | Prevents premature expense recognition. | Annual insurance paid in advance. |
+| Depreciation | Allocating the cost of a tangible long-lived asset over its useful life. | Reflects the use of assets across periods. | Depreciating equipment over several years. |
+| Amortization | Allocating certain costs over a period, often for intangible assets. | Supports period-based expense recognition. | Amortizing a finite-lived software license. |
+| Write-Off | Removing an amount from accounting records when appropriate. | Recognizes losses or uncollectible amounts. | Writing off an uncollectible receivable. |
+| Aging Report | A report grouping outstanding balances by how long they have been unpaid. | Supports collections and payment management. | AR balances grouped into 0–30, 31–60, and 61–90 days. |
+| Days Sales Outstanding (DSO) | An estimate of the average time required to collect receivables. | Helps assess collections efficiency. | Average AR ÷ credit sales × days in period. |
+| Internal Controls | Policies and procedures designed to reduce errors, fraud, and operational risks. | Support reliable reporting and asset protection. | Requiring payment approval from an authorized person. |
+| Audit Trail | Records showing how transactions were created, changed, or processed. | Supports accountability and review. | Reviewing who approved a journal entry. |
+| GAAP | Generally Accepted Accounting Principles used for U.S. financial reporting. | Supports consistency and comparability. | Applying relevant revenue recognition requirements. |
 
-## Marketing and E-commerce
+---
 
-| Term | Plain-English definition | Why it matters | Example |
+# 3. Marketing and E-commerce
+
+These terms support analysis of customers, sales channels, advertising, online stores, and marketing performance.
+
+| Term | Plain-English Definition | Why It Matters | Example |
 |---|---|---|---|
-| KPI (Key Performance Indicator) | A measure tied to a specific business goal. | It focuses attention on what matters. | Monthly revenue growth. |
-| Conversion Rate | The percentage of visitors or leads who take a desired action. | It shows how effective a page or campaign is. | 50 purchases from 1,000 visitors equals 5 percent. |
-| Customer Acquisition Cost (CAC) | The average cost to win a new customer. | It shows whether growth is affordable. | Marketing spend divided by new customers. |
-| Customer Lifetime Value (CLV) | The total value a customer is expected to bring over time. | It guides how much to spend to acquire customers. | Average purchase value times purchase frequency times duration. |
-| Churn | The rate at which customers stop buying or subscribing. | High churn reduces growth. | Subscribers lost in a month divided by total subscribers. |
-| Retention Rate | The percentage of customers who continue buying. | Keeping customers is often cheaper than acquiring new ones. | Returning buyers over a period. |
-| Average Order Value (AOV) | Total revenue divided by number of orders. | It shows how much customers spend per purchase. | 10,000 dollars across 200 orders equals 50 dollars. |
-| Return on Ad Spend (ROAS) | Revenue generated per dollar of advertising. | It evaluates ad efficiency. | Revenue of 500 dollars from 100 dollars of ads equals 5. |
-| Sales Funnel | The stages a customer moves through from awareness to purchase. | It reveals where prospects drop off. | Visit, product view, cart, checkout, purchase. |
-| Attribution | Assigning credit for a sale to marketing touchpoints. | It guides budget allocation. | Crediting an email or an ad. |
-| Cohort | A group of customers sharing a characteristic, such as the month they first purchased. | It reveals behavior patterns over time. | Customers acquired in January. |
-| SKU | Stock keeping unit, a unique code for a product variation. | It enables inventory tracking. | A shirt in size medium and blue. |
-| Inventory Turnover | How many times inventory is sold and replaced in a period. | It shows how efficiently stock moves. | COGS divided by average inventory. |
+| Key Performance Indicator (KPI) | A measure connected to a specific business objective. | Helps monitor meaningful progress. | Monthly revenue growth. |
+| Conversion Rate | Percentage of people who complete a defined action. | Measures how effectively a process or campaign converts. | 50 purchases ÷ 1,000 visitors = 5%. |
+| Customer Acquisition Cost (CAC) | Acquisition-related spending divided by new customers acquired. | Helps evaluate customer acquisition efficiency. | $500 acquisition spending ÷ 25 customers = $20. |
+| Customer Lifetime Value (CLV) | Estimated economic value generated by a customer over the relationship. | Helps assess customer profitability and acquisition spending. | Estimating expected contribution margin from repeat purchases. |
+| Churn Rate | Percentage of customers or subscribers lost during a period. | Indicates customer loss. | 20 subscribers lost from 200 starting subscribers = 10%. |
+| Retention Rate | Percentage of customers retained over a defined period. | Helps evaluate customer loyalty. | 180 of 200 starting subscribers remain = 90%. |
+| Average Order Value (AOV) | Revenue divided by number of orders. | Measures average transaction size. | $10,000 revenue ÷ 200 orders = $50. |
+| Return on Ad Spend (ROAS) | Attributed advertising revenue divided by advertising spend. | Measures advertising revenue efficiency, not overall profitability. | $500 attributed revenue ÷ $100 advertising spend = 5×. |
+| Click-Through Rate (CTR) | Clicks divided by impressions, expressed as a percentage. | Measures response to content or advertising. | 50 clicks ÷ 2,000 impressions = 2.5%. |
+| Cost Per Click (CPC) | Advertising cost divided by clicks. | Helps evaluate paid traffic costs. | $100 spent ÷ 50 clicks = $2 per click. |
+| Cost Per Mille (CPM) | Advertising cost per 1,000 impressions. | Helps compare exposure costs. | $20 spent for 2,000 impressions = $10 CPM. |
+| Engagement Rate | Interactions divided by a defined audience or exposure measure. | Helps evaluate audience response. | Engagements divided by impressions. |
+| Impressions | Number of times content or an advertisement is displayed. | Measures exposure. | A post displayed 5,000 times. |
+| Reach | Number of unique people or accounts exposed to content, as defined by the platform. | Measures audience breadth. | A campaign reaches 3,000 accounts. |
+| Sales Funnel | Stages customers move through before completing a purchase. | Identifies where potential customers leave. | Visit → Product View → Cart → Checkout → Purchase. |
+| Attribution | Assigning conversion credit to marketing interactions using a defined model. | Influences performance reporting and spending decisions. | Comparing email and paid advertising contributions. |
+| Cohort | A group sharing a defined characteristic or starting period. | Supports comparisons over time. | Customers who made their first purchase in January. |
+| Customer Segmentation | Dividing customers into groups based on shared characteristics. | Supports more relevant marketing and analysis. | Grouping customers by purchase frequency. |
+| Customer Journey | The sequence of interactions a customer has with a business. | Helps improve customer experience. | Discovery, consideration, purchase, and repeat purchase. |
+| Cart Abandonment | When a shopper adds products to a cart but does not complete the purchase. | Identifies potential lost sales. | A customer leaves before checkout. |
+| SKU | Stock Keeping Unit, an identifier for a product or variation. | Supports inventory and sales tracking. | A specific planner design and color. |
+| Inventory Turnover | COGS divided by average inventory for a period. | Helps evaluate inventory movement. | $60,000 COGS ÷ $15,000 average inventory = 4 turns. |
+| Organic Traffic | Website visits from unpaid discovery sources, commonly search. | Helps evaluate nonpaid acquisition. | Visits from unpaid search results. |
+| Referral Traffic | Visits originating from links on other websites. | Identifies external traffic sources. | A visitor clicks a link from a business blog. |
+| UTM Parameters | Tags added to URLs to identify campaign traffic. | Help organize campaign attribution and reporting. | A link labeled with source, medium, and campaign. |
 
-## Analytics and Business Intelligence
+---
 
-| Term | Plain-English definition | Why it matters | Example |
+# 4. Analytics and Business Intelligence
+
+These concepts explain how data becomes useful information for reporting, analysis, and decision-making.
+
+| Term | Plain-English Definition | Why It Matters | Example |
 |---|---|---|---|
-| Business Intelligence (BI) | Tools and practices that turn data into reports and insights for decisions. | It supports consistent, data-based management. | A sales dashboard. |
-| Data Analytics | Examining data to find patterns and answer questions. | It supports decisions with evidence. | Analyzing sales trends. |
-| Dashboard | A visual display of key measures on one screen. | It enables fast monitoring. | A KPI dashboard in Power BI. |
-| Data Visualization | Presenting data with charts and graphics. | Good visuals communicate patterns clearly. | A line chart of monthly revenue. |
-| Data Cleaning | Correcting or removing errors, duplicates, and inconsistencies. | Bad data produces bad conclusions. | Standardizing date formats. |
-| ETL | Extract, transform, load: moving data from sources, reshaping it, and storing it for analysis. | It prepares reliable data for reporting. | Importing sales data and cleaning it before reporting. |
-| Data Model | The structure of tables and relationships used for analysis. | A good model makes calculations accurate. | Linking a sales table to a products table. |
-| Data Warehouse | A central store of data from multiple sources, organized for analysis. | It provides a single source of truth. | A company repository for reporting. |
-| Granularity | The level of detail in data. | It determines what questions the data can answer. | Daily versus monthly sales. |
-| PivotTable | An Excel tool that summarizes data by category. | It enables quick analysis without formulas. | Total sales by region. |
-| DAX | Data Analysis Expressions, the formula language used in Power BI. | It creates measures and calculated columns. | A measure for year-over-year growth. |
-| Outlier | A value far from the others. | It can distort averages or reveal errors. | A single order of 50,000 dollars among 50-dollar orders. |
-| Mean and Median | The mean is the average; the median is the middle value. | The median is less affected by outliers. | Income data often favors the median. |
-| Standard Deviation | A measure of how spread out values are. | It describes variability. | Daily sales that vary widely have a high standard deviation. |
-| Correlation | A measure of how two variables move together. | It does not prove one causes the other. | Advertising spend and sales may rise together. |
-| Regression | A statistical method for estimating relationships between variables. | It supports prediction and explanation. | Estimating sales from ad spend. |
+| Business Intelligence (BI) | Technologies and practices for organizing, analyzing, and presenting business information. | Supports ongoing performance monitoring. | A Power BI executive dashboard. |
+| Data Analytics | Examining data to answer questions and identify meaningful patterns. | Supports evidence-based decisions. | Reviewing sales trends. |
+| Descriptive Analytics | Analysis of what has already happened. | Summarizes historical performance. | Last month's revenue report. |
+| Diagnostic Analytics | Analysis of why something may have happened. | Helps investigate performance changes. | Examining reasons for declining sales. |
+| Predictive Analytics | Using data and models to estimate future outcomes. | Supports forecasting and risk assessment. | Predicting demand from historical sales. |
+| Prescriptive Analytics | Using analysis to evaluate or recommend possible actions. | Supports decision optimization. | Comparing staffing plans under different demand forecasts. |
+| Dashboard | A visual display of important metrics and information. | Supports monitoring and decision-making. | An Excel or Power BI KPI dashboard. |
+| Data Visualization | Communicating information through charts and graphics. | Helps people recognize patterns. | A line chart showing revenue trends. |
+| Data Cleaning | Identifying and correcting data errors and inconsistencies. | Improves analysis reliability. | Standardizing dates and removing duplicates. |
+| Data Transformation | Changing data structure, format, or values for a defined purpose. | Makes data suitable for analysis. | Converting text dates into date values. |
+| ETL | Extract, Transform, Load: collecting, preparing, and loading data into a target system. | Supports reporting and data integration. | Loading cleaned sales data into a reporting database. |
+| ELT | Extract, Load, Transform: loading source data before transforming it in the target environment. | Common in modern cloud data systems. | Loading raw data into a warehouse before preparing reporting tables. |
+| Data Model | An organized structure defining data entities and relationships. | Supports accurate calculations and reporting. | Connecting sales, customer, and product tables. |
+| Data Warehouse | A system designed to store and organize data for analysis and reporting. | Supports integrated business reporting. | A centralized company reporting environment. |
+| Data Granularity | The level of detail represented in a dataset. | Determines which questions can be answered. | Individual transactions versus monthly totals. |
+| Dimension | A descriptive category used to group or filter data. | Provides context for measures. | Product, region, or date. |
+| Measure | A calculated value used to summarize or analyze data. | Quantifies business performance. | Total revenue or gross margin. |
+| Fact Table | A table containing events, transactions, or measurable business activity. | Forms the analytical foundation of many data models. | Sales transactions. |
+| Dimension Table | A table containing descriptive information about business entities. | Supports grouping and filtering. | Product categories and descriptions. |
+| Star Schema | A data model with a central fact table connected to dimension tables. | Simplifies many analytical reporting models. | Sales fact table connected to date and product dimensions. |
+| PivotTable | An Excel feature for summarizing and exploring data. | Enables quick analysis. | Sales totals by region and month. |
+| Power Query | A Microsoft data preparation and transformation tool. | Helps repeat data cleaning steps. | Combining monthly Excel files. |
+| DAX | Data Analysis Expressions, used for calculations in Power BI and related tools. | Supports measures and analytical calculations. | Year-over-year revenue growth. |
+| Outlier | A value that differs substantially from other observations. | May indicate unusual activity or errors. | One unusually large customer order. |
+| Mean | The arithmetic average. | Summarizes a dataset's central value. | Total sales divided by number of days. |
+| Median | The middle value in an ordered dataset. | Less affected by extreme values than the mean. | Median invoice amount. |
+| Standard Deviation | A measure of how spread out data values are. | Helps describe variability. | Measuring fluctuations in daily sales. |
+| Correlation | A statistical measure of association between variables. | Helps investigate relationships, but does not prove causation. | Advertising spending and sales moving together. |
+| Regression | A method for modeling relationships between variables. | Supports estimation and analysis. | Estimating sales based on advertising and seasonality. |
+| Data Quality | The degree to which data is fit for its intended use. | Poor data quality can produce unreliable conclusions. | Checking completeness and accuracy. |
+| Data Validation | Checking data against defined rules or expectations. | Helps identify errors before reporting. | Confirming invoice dates and amounts. |
+| Data Governance | Policies and responsibilities for managing data throughout its lifecycle. | Supports quality, security, and appropriate use. | Establishing rules for customer data access. |
+| Drill-Down | Moving from summarized information into more detailed data. | Helps investigate performance. | Moving from annual sales to monthly sales. |
+| Slicer | An interactive filtering control in Excel or Power BI. | Helps users explore reports. | Filtering dashboard results by region. |
+| Variance Analysis | Comparing actual performance against a benchmark, budget, or prior period. | Identifies differences requiring explanation. | Comparing actual revenue against forecast. |
 
-## Technology and Data
+---
 
-| Term | Plain-English definition | Why it matters | Example |
+# 5. Technology and Data
+
+These terms support programming, databases, automation, software development, and analytical workflows.
+
+| Term | Plain-English Definition | Why It Matters | Example |
 |---|---|---|---|
-| SQL | Structured Query Language, used to retrieve and manage data in relational databases. | It is a core skill for working with business data. | SELECT name FROM customers. |
-| Relational Database | A database that stores data in related tables. | It reduces duplication and supports consistency. | Customers and orders in separate tables. |
-| Query | A request for data from a database. | Queries answer business questions. | Total sales by month. |
-| Primary Key | A column that uniquely identifies each row in a table. | It prevents duplicate records. | Customer ID. |
-| Foreign Key | A column that links to a primary key in another table. | It defines relationships between tables. | Customer ID in an orders table. |
-| JOIN | A SQL operation that combines rows from two tables based on a related column. | It brings related data together. | Linking orders to customers. |
-| Aggregate Function | A function that summarizes many rows into one value. | It calculates totals and averages. | SUM, COUNT, AVG. |
-| GROUP BY | A SQL clause that groups rows so aggregates are calculated per group. | It summarizes data by category. | Sales per region. |
-| Python | A general-purpose programming language widely used for data work. | It automates tasks and analyzes data. | A script that calculates margins. |
-| Variable | A named container for a value in a program. | It stores data for later use. | price = 25. |
-| Function | A reusable block of code that performs a task. | It reduces repetition. | A function that calculates profit margin. |
-| Library | A collection of prewritten code for common tasks. | It extends what a language can do. | pandas for data analysis. |
-| API | Application Programming Interface, a way for software systems to exchange data. | It lets tools share information. | Retrieving sales data from a platform. |
-| Automation | Using software to perform repetitive tasks. | It saves time and reduces errors. | A script that cleans a weekly report. |
-| Version Control | A system that tracks changes to files over time. | It preserves history and supports collaboration. | Git. |
-| Repository | A project folder tracked by version control. | It organizes and shares work. | This GitHub repository. |
-| Commit | A saved snapshot of changes in version control. | It documents what changed and when. | Adding a new document. |
-| Markdown | A simple syntax for formatting text documents. | It makes documentation readable on GitHub. | Headings and tables in this repository. |
+| SQL | Structured Query Language, used to work with relational databases. | Enables data retrieval and manipulation. | `SELECT name FROM customers;` |
+| Relational Database | A database that organizes information into related tables. | Supports structured data management. | Separate customer and order tables. |
+| Query | A request for information or an operation on data. | Retrieves or modifies data. | Finding sales totals for a month. |
+| Primary Key | A field or combination of fields uniquely identifying a record. | Supports reliable record identification. | Customer ID. |
+| Foreign Key | A field or combination of fields referencing a key in another table. | Supports relationships and referential integrity. | Customer ID in an orders table. |
+| JOIN | A SQL operation combining related rows from tables. | Supports analysis across datasets. | Combining orders with customer information. |
+| Aggregate Function | A function that summarizes multiple values. | Supports totals, counts, and averages. | `SUM()`, `COUNT()`, `AVG()`. |
+| GROUP BY | A SQL clause grouping rows for aggregation. | Enables category-level summaries. | Total revenue by product category. |
+| WHERE | A SQL clause filtering rows according to conditions. | Limits analysis to relevant records. | Orders placed after a selected date. |
+| ORDER BY | A SQL clause sorting query results. | Makes results easier to review. | Sorting customers by revenue. |
+| NULL | A database marker representing a missing or unknown value. | Requires special handling in calculations and filtering. | An order without a shipping date. |
+| Python | A general-purpose programming language used for many tasks, including analytics. | Supports automation and data processing. | Calculating financial ratios with code. |
+| Variable | A name referencing a value in a program. | Allows information to be reused. | `price = 25` |
+| Data Type | A classification describing the kind of value stored or processed. | Determines valid operations. | Integer, string, or Boolean. |
+| String | Text data represented as a sequence of characters. | Used for names, labels, and messages. | `"Monthly Sales"` |
+| Boolean | A value representing true or false. | Supports conditions and logical decisions. | `is_paid = True` |
+| List | An ordered Python collection that can hold multiple values. | Organizes related information. | `[10, 20, 30]` |
+| Dictionary | A Python collection of key-value pairs. | Stores structured information. | `{"revenue": 5000}` |
+| Loop | A programming structure that repeats instructions. | Supports repetitive processing. | Reviewing each transaction in a list. |
+| Conditional Statement | Code that selects an action based on a condition. | Supports decision logic. | Flagging invoices older than 30 days. |
+| Function | A reusable block of code that performs a task. | Reduces duplication and improves organization. | A function calculating profit margin. |
+| Library | A collection of reusable software code. | Extends programming capabilities. | pandas for data analysis. |
+| pandas | A Python library for working with structured data. | Supports cleaning, transformation, and analysis. | Summarizing sales data in a DataFrame. |
+| DataFrame | A table-like data structure commonly used in pandas. | Supports row-and-column data operations. | A dataset of customer transactions. |
+| API | Application Programming Interface, a defined way for software systems to communicate. | Enables system integration. | Retrieving data from an online platform. |
+| JSON | JavaScript Object Notation, a text format for structured data. | Common in APIs and data exchange. | `{"orders": 25}` |
+| CSV | Comma-Separated Values, a common text format for tabular data. | Supports data exchange. | Exporting transactions into a CSV file. |
+| Automation | Using technology to perform tasks with limited manual intervention. | Can improve consistency and efficiency. | Refreshing a recurring report. |
+| Version Control | Tracking changes to files over time. | Supports recovery and collaboration. | Git tracking project revisions. |
+| Git | A distributed version control system. | Tracks file history and development. | Saving changes to an analytics project. |
+| GitHub | A platform for hosting Git repositories and collaborating on projects. | Supports portfolio documentation and code sharing. | Maintaining a learning repository. |
+| Repository | A project directory managed with version control. | Organizes related files and their history. | A GitHub analytics project repository. |
+| Commit | A recorded snapshot of changes in Git. | Documents development history. | Saving an updated project README. |
+| Markdown | A lightweight text formatting syntax. | Supports readable documentation. | Headings, lists, and tables in GitHub. |
+| Debugging | Identifying and correcting problems in code. | Improves program reliability. | Fixing a Python calculation error. |
+| Syntax Error | A programming error caused by invalid language structure. | Prevents code from running correctly. | Missing required punctuation. |
+| Logic Error | A mistake in how a program processes information. | Can produce incorrect results even when code runs. | Using the wrong formula for margin. |
+| Cloud Computing | Using computing resources delivered over a network. | Supports scalable storage, software, and processing. | Running analytics tools on cloud infrastructure. |
 
-## Process Improvement
+---
 
-| Term | Plain-English definition | Why it matters | Example |
+# 6. Process Improvement
+
+These concepts explain how organizations evaluate workflows, reduce inefficiencies, improve quality, and measure operational performance.
+
+| Term | Plain-English Definition | Why It Matters | Example |
 |---|---|---|---|
-| Process Mapping | Diagramming the steps of a workflow. | It makes inefficiencies visible. | A flowchart of order fulfillment. |
-| Bottleneck | A step that limits the speed or capacity of an entire process. | Improving it increases overall output. | A single approval step delaying orders. |
-| Root Cause Analysis | Investigating the underlying reason for a problem. | It prevents treating only symptoms. | Asking why repeatedly. |
-| Lean | An approach focused on eliminating waste while delivering value. | It improves efficiency. | Removing unnecessary handoffs. |
-| Six Sigma | A data-driven method for reducing defects and variation. | It supports quality improvement. | Reducing order errors. |
-| DMAIC | Define, Measure, Analyze, Improve, Control, a Six Sigma problem-solving cycle. | It gives structure to improvement projects. | Applied to a delay in invoicing. |
-| Cycle Time | The time to complete one unit of work from start to finish. | It measures speed. | Hours from order to shipment. |
-| Throughput | The amount of work completed in a period. | It measures capacity. | Orders shipped per day. |
+| Process Mapping | Creating a visual representation of workflow steps. | Makes work processes easier to understand and improve. | Mapping an invoice approval process. |
+| Workflow | A sequence of tasks needed to complete an activity. | Helps identify responsibilities and dependencies. | Invoice receipt → Review → Approval → Payment. |
+| Bottleneck | A constraint that limits the speed or capacity of a process. | Can reduce overall performance. | One approval step delaying invoice processing. |
+| Root Cause Analysis | Investigating the underlying reasons for a problem. | Helps prevent recurring issues. | Identifying why invoices are repeatedly delayed. |
+| Lean | An improvement philosophy focused on reducing waste and creating value. | Supports efficient operations. | Removing unnecessary approval steps. |
+| Six Sigma | A structured approach to reducing process variation and defects. | Supports consistent quality. | Reducing errors in order processing. |
+| DMAIC | Define, Measure, Analyze, Improve, Control. | Provides a structured improvement cycle. | Investigating and reducing invoice processing delays. |
+| Cycle Time | Time required to complete a defined process or work unit. | Measures operational speed. | Time from receiving an invoice to completing processing. |
+| Lead Time | Total elapsed time from a request or order to its completion. | Helps evaluate customer or operational waiting time. | Days from placing an order to delivery. |
+| Throughput | Amount of work completed during a period. | Measures operational output. | 250 invoices processed per day. |
+| Capacity | Maximum output achievable under defined conditions. | Supports workload planning. | Number of orders a team can process daily. |
+| Standard Operating Procedure (SOP) | Documented instructions for performing a recurring process. | Supports consistency and training. | Written steps for monthly reconciliation. |
+| Key Risk Indicator (KRI) | A measure used to monitor potential risk exposure. | Helps identify emerging problems. | Percentage of overdue reconciliations. |
+| Continuous Improvement | An ongoing approach to making processes more effective. | Encourages repeated evaluation and refinement. | Reviewing and improving reporting procedures monthly. |
+| Process Automation | Using software to execute defined workflow steps. | Can reduce repetitive manual work. | Automatically routing invoices for approval. |
+| Stakeholder | A person or group affected by or interested in an activity or decision. | Helps identify requirements and communication needs. | Finance managers and department leaders. |
+| Business Requirement | A documented business need or expected outcome. | Helps ensure solutions address real problems. | A dashboard must show monthly receivables by aging category. |
+| Gap Analysis | Comparing the current state with a desired future state. | Identifies what needs to change. | Comparing existing reporting with management requirements. |
+| Change Management | A structured approach to helping people adopt organizational changes. | Supports successful implementation. | Training employees on a new reporting process. |
+| Performance Benchmark | A reference point used to compare performance. | Supports evaluation and improvement. | Comparing processing time against a target. |
 
-Return to [Resources](README.md) or the [Resources list](Resources.md).
+---
+
+# 7. Practical Formula Reference
+
+These formulas provide quick reference points for selected business and analytical calculations.
+
+| Metric | Formula |
+|---|---|
+| Gross Profit | Revenue − COGS |
+| Gross Profit Margin | (Gross Profit ÷ Revenue) × 100 |
+| Net Profit Margin | (Net Income ÷ Revenue) × 100 |
+| Contribution Margin per Unit | Selling Price − Variable Cost per Unit |
+| Break-Even Units | Fixed Costs ÷ Contribution Margin per Unit |
+| Current Ratio | Current Assets ÷ Current Liabilities |
+| Working Capital | Current Assets − Current Liabilities |
+| ROI | (Net Investment Gain ÷ Investment Cost) × 100 |
+| Average Order Value | Revenue ÷ Number of Orders |
+| Conversion Rate | (Conversions ÷ Eligible Visitors or Interactions) × 100 |
+| ROAS | Attributed Advertising Revenue ÷ Advertising Spend |
+| CTR | (Clicks ÷ Impressions) × 100 |
+| CAC | Acquisition Costs ÷ New Customers Acquired |
+| Inventory Turnover | COGS ÷ Average Inventory |
+| Revenue Growth Rate | ((Current Revenue − Previous Revenue) ÷ Previous Revenue) × 100 |
+| DSO (Approximate) | (Average Accounts Receivable ÷ Credit Sales) × Days in Period |
+
+**Calculation note:** Metrics must use consistent time periods and appropriate definitions. Some formulas depend on accounting policies, business models, and reporting conventions. Division by zero and missing information must be handled before calculating results.
+
+---
+
+# 8. Business Analytics Learning Applications
+
+The following examples connect terminology to practical analytical activities.
+
+| Business Question | Relevant Concepts | Potential Tool |
+|---|---|---|
+| Which products generate the highest profit? | Revenue, COGS, Gross Margin | Excel |
+| Why are collections slowing down? | AR, Aging Reports, DSO | Excel / Power BI |
+| How are sales changing over time? | Revenue Growth, KPIs, Trend Analysis | Excel / Power BI |
+| Which marketing channels generate purchases? | Conversion Rate, Attribution, ROAS | Excel / Analytics Platform |
+| How can transactions be summarized by customer? | SQL, JOIN, GROUP BY | SQL |
+| How can repetitive calculations be automated? | Python, Functions, Loops | Python |
+| Why does a report contain inconsistent totals? | Data Quality, Validation, Data Modeling | Excel / SQL / Power BI |
+| Where are operational delays occurring? | Process Mapping, Cycle Time, Bottlenecks | Excel / Process Mapping |
+| What happens if operating costs increase? | Scenario Analysis, Sensitivity Analysis | Excel |
+| How should management monitor business performance? | KPIs, Dashboards, Data Visualization | Power BI |
+
+---
+
+# 9. New Terminology Learning Template
+
+Use this template when encountering unfamiliar terminology.
+
+**Term:** [Enter term]
+
+**Category:** [Business / Accounting / Marketing / Analytics / Technology / Process Improvement]
+
+**Plain-English Definition:**
+
+[Explain the concept simply.]
+
+**Why It Matters:**
+
+[Describe its business or technical purpose.]
+
+**When It Is Used:**
+
+[Identify a realistic situation.]
+
+**Example:**
+
+[Provide a simple example.]
+
+**Related Terms:**
+
+[List related concepts.]
+
+**Tool or Business Application:**
+
+[Excel, Python, SQL, Power BI, Accounting, etc.]
+
+**My Explanation:**
+
+[Rewrite the concept in my own words.]
+
+**Practice Activity:**
+
+[Describe a small exercise.]
+
+**Understanding Level:**
+
+[New / Familiar / Understanding / Practicing / Applying]
+
+**Reference:**
+
+[Add an appropriate learning source.]
+
+---
+
+# 10. Glossary Development Standards
+
+To maintain the usefulness and accuracy of this reference:
+
+- Use clear, accessible definitions.
+- Connect terminology to realistic business applications.
+- Avoid unnecessary jargon.
+- Distinguish similar concepts when appropriate.
+- Include formulas where they improve understanding.
+- Use hypothetical examples rather than unsupported business results.
+- Add references when definitions require authoritative support.
+- Review concepts as technical understanding develops.
+- Update terminology when software or industry practices change.
+- Prioritize practical understanding over memorization.
+
+---
+
+## Related Resources
+
+- [Resources Home](README.md)
+- [Resources List](Resources.md)
+- [Learning Roadmap](../Learning-Roadmap/README.md)
+- [Practice Log](../Learning-Roadmap/Practice-Log.md)
+- [Industry Research](../Professional-Development/Industry-Research.md)
+- [Skills Evidence](../Skills/Skills-Evidence.md)
+
+---
+
+*This glossary is a living educational resource. Definitions, examples, and applications will be expanded as I progress through formal Business Analytics education, independent technical training, and practical business analysis projects.*
