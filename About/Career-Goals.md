@@ -74,7 +74,6 @@ My primary academic objective is completing the Associate of Applied Science in 
 
 #### Education
 
-- [ ] Complete BAS 120 and BAS 150 coursework planned for January 2027.
 - [ ] Track academic progress in the [Coursework Tracker](../Education/Coursework-Tracker.md).
 - [ ] Complete remaining Business Analytics degree requirements.
 - [ ] Research bachelor's degree transfer options, prioritizing fully online programs, transfer-credit efficiency, applied learning, and affordability.
